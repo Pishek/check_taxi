@@ -1,0 +1,1 @@
+Check price using 2 browser and take min_price 
